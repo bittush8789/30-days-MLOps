@@ -1,4 +1,4 @@
-# 🚀 Day 3 of 30-Day MLOps Challenge: Mastering Data Versioning with DVC
+## 🚀 Day 3 of 30-Day MLOps Challenge: Mastering Data Versioning with DVC
 
 **Author:** [Bittu Sharma](https://www.linkedin.com/in/bittusharma)  
 **Date:** Nov 12, 2025  
@@ -63,7 +63,7 @@ Dataset versioning supports audit trails and compliance documentation.
 
 ## 💡 What is DVC?
 
-**DVC (Data Version Control)** is an open-source tool that helps track, version, and manage data, models, and experiments in ML workflows — similar to how Git tracks code.
+** DVC (Data Version Control)** is an open-source tool that helps track, version, and manage data, models, and experiments in ML workflows — similar to how Git tracks code.
 
 ---
 
