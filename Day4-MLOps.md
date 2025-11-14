@@ -148,7 +148,7 @@ my-ml-project/
 
 ---
 
-## 🐳 Creating Portable and Consistent ML Environments Using Docker
+### 🐳 Creating Portable and Consistent ML Environments Using Docker
 
 ### 💪 Why Use Docker for ML?
 
