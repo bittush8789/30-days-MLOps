@@ -7,9 +7,8 @@
 * How to train ML models using Scikit-learn and TensorFlow
 * Differences between traditional ML (Scikit-learn) vs deep learning (TensorFlow/Keras) workflows
 * Importance of saving models (joblib, pickle, SavedModel) for deployment
-* Introduction to training pipelines: modular code, data loading, preprocessing, training, evaluation, and saving
+* Introduction to training pipelines: modular code, data loading, preprocessing, training, evaluation, and 
 
----
 
 ## 🧠 ML Model Basics
 
